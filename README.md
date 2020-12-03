@@ -26,5 +26,6 @@ python bitmap_arg.py A[x] M[m][n]
 python bitmap_args.py [1,4,6] [[1,1,2,4,5,6],[2,4,1,6,5,7]]
 ```
 
-Requirements: python 3.7 <br>
-              numpy
+Requirements: 
+- python 3.7
+- numpy
