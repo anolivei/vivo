@@ -11,7 +11,7 @@ to use:
 - define the matrix (line 27)
 - type 
 ```
-python bitmap and see the result
+python bitmap.py
 ```
 
 2. bitmap_args works with the parameters vector and matrix passed as arguments
