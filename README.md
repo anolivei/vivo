@@ -1,7 +1,7 @@
 # Processo Seletivo Vivo 42
 
-Learning Python, sorry for this, I just made the first one exercise... But I am still learning about APIs in Python<br>
-Thanks for the chance to improve my knowledge, unfortunately I did not have enough time to apply for this job as I would like <br>
+Learning Python :) <br>
+Thanks for the chance to improve my knowledge <br>
 
 bitmap and bitmap_args are simple functions which returns the frequency of the numbers (defined in a vetor A[x]) in a matrix
 
